@@ -1,17 +1,28 @@
-# RUDHRA-KARTHIKEYAN-REPOSITORY
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>My Stylish Page</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# 🚀 Sample Project
 
-  <div class="card">
-        <h1>🚀 Welcome!</h1>
-        <p>This is my GitHub project for college.</p>
-        <button>Explore</button>
-    </div>
+## 📌 About
+This is a sample GitHub repository created as part of a college activity.
 
-</body>
-</html>
+## 💡 Features
+- Simple and clean structure
+- Beginner-friendly
+- Demonstrates basic GitHub usage
+
+## 🛠️ Tech Used
+- Git
+- GitHub
+- (Add your language here: C / Python / Java)
+
+## 📂 Project Structure
+
+sample-project/
+│── sample.py
+│── README.md
+
+
+## ▶️ How to Run
+
+python sample.py
+
+## 🙋‍♀️ Author
+- RUDHRA KARTHIKEYAN 
